@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/python-hearthstone" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/pythonhearthstone" vcs="Git" />
   </component>
 </project>
